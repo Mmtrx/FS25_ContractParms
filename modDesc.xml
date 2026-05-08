@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="106">
+    <author>Mmtrx</author>
+    <version>1.0.0.1</version>
+    <title>
+        <de>Vertragslohn</de>
+        <en>Mission Rewards</en>
+    </title>
+    <description>
+        <de><![CDATA[
+
+- Vergütung bei Missionen kann angepasst werden
+]]></de>
+        <en><![CDATA[
+- Compensation for missions can be edited
+]]></en>
+    </description>
+	<iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="main.lua" />
+    </extraSourceFiles>
+</modDesc>
